@@ -16,4 +16,4 @@ int main(){
         }else count++;
         cout<<count<<endl;
     }
-}
+} // new change
