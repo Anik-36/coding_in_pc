@@ -26,3 +26,6 @@ int main(){
     }
     return 0;
 }
+
+
+// complexity for best case , worst case and average case = O(N^2)
